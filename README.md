@@ -1,5 +1,4 @@
-### `platform/cocoa/darwin`
-
+### Darwin 
 A low-level, self-contained bridge to the macOS native API using `purego` for 
 direct system calls. A private backend for a higher-level, cross-platform PAL
 
